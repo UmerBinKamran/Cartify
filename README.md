@@ -3,6 +3,9 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![API](https://img.shields.io/badge/API-FakeStore-blue)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
+![Frontend](https://img.shields.io/badge/Project-Frontend-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Cartify is a modern and responsive e-commerce frontend built using **HTML, CSS, Bootstrap, and JavaScript**.  
 The application fetches product data from the **FakeStore API** and dynamically displays products in cards with a fully functional shopping cart system.
