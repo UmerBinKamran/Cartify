@@ -1,7 +1,7 @@
-const apiKey = "https://fakestoreapi.com/products";
+const apiURL = "https://fakestoreapi.com/products";
 const productsRow = document.getElementById("productsRow");
 
-fetch(apiKey)
+fetch(apiURL)
   .then((res) => res.json())
   .then((products) => {
     products.forEach((product) => {
